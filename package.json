@@ -1,0 +1,43 @@
+{
+  "name": "guidebot",
+  "version": "2.0.3",
+  "description": "A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Idiots-Guide/guidebot.git"
+  },
+  "author": "The Idiot's Guide Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/An-Idiots-Guide/guidebot/issues"
+  },
+  "homepage": "https://github.com/An-Idiots-Guide/guidebot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "chalk": "^2.4.2",
+    "jimp": "^0.6.3",
+    "moment": "^2.24.0",
+    "dateformat": "^3.0.3",
+    "quick.db": "^6.3.2",
+    "dblapi.js": "^2.3.0",
+    "figlet": "^1.2.1",
+    "request": "^2.88.0",
+    "gifencoder": "^2.0.1",
+    "hastebin-gen": "^2.0.4",
+    "moment-duration-format": "^2.2.2",
+    "cpu-stat": "^2.0.1",
+    "common-tags": "^1.8.0",
+    "cleverbot.io": "^1.0.4",
+    "js-robloxapi": "^1.0.6",
+    "cheerio": "^0.22.0",
+    "node-superfetch": "^0.1.9"
+  }
+}
